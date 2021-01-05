@@ -1,5 +1,7 @@
 # ![Markdown Here logo](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) Markdown Here
 
+[**Visit the Markdown cheat sheet.**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
+
 [**Visit the website.**](http://markdown-here.com)<br>
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)<br>
 [**Get it for Firefox.**](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)<br>
